@@ -1,1 +1,1 @@
-# infinite-hove
+# infinite-hover
